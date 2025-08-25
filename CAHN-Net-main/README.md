@@ -9,7 +9,7 @@ If you find this project helpful, please consider giving it a star ⭐
 ```
 
 
-![Overview](./figs/overview.png)
+![Overview](https://github.com/Han-Wang-RSLab/CAHN-Net/blob/main/CAHN-Net-main/figs/01.png)
 
  We leave our system information for reference.
 
@@ -23,7 +23,7 @@ If you find this project helpful, please consider giving it a star ⭐
 
 Other operating environments    
 
-pip install timm==0.9.8 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.4.8 dill==0.3.6 albumentations==1.3.1 pytorch_wavelets==1.3.0 tidecv PyWavelets -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install timm==1.0.7 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.5.4 dill==0.3.8 albumentations==1.4.11 pytorch_wavelets==1.3.0 tidecv PyWavelets opencv-python prettytable -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## Dataset Preparation
 Please construct the datasets following these steps:
@@ -66,8 +66,8 @@ python distill.py
 get_COCO_metrice.py
 ## Result Visualization 
 ```
-![](/figs/experiment.png)
+![]([/figs/experiment.png](https://github.com/Han-Wang-RSLab/CAHN-Net/blob/main/CAHN-Net-main/figs/02.png))
 ## Demo prediction
 
-![](/figs/prediction.png)
+![]([/figs/prediction.png](https://github.com/Han-Wang-RSLab/CAHN-Net/blob/main/CAHN-Net-main/figs/03.png))
 
