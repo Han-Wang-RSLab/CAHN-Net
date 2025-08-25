@@ -9,7 +9,7 @@ If you find this project helpful, please consider giving it a star ⭐
 ```
 
 
-![](https://github.com/Han-Wang-RSLab/CAHN-Net/edit/main/CAHN-Net-main/figs/overview.png)
+![](https://github.com/Han-Wang-RSLab/CAHN-Net/edit/main/CAHN-Net-main/figs/overview.png).https://github.com/Han-Wang-RSLab/CAHN-Net/edit/main/CAHN-Net-main/figs/overview.png
 
  We leave our system information for reference.
 
