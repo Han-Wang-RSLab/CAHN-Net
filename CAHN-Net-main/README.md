@@ -6,10 +6,10 @@ This repository contains the implementation accompanying our paper FDKD-Net: Dif
 
 If you find this project helpful, please consider giving it a star ⭐
 
-```
 
 
-![](https://github.com/Han-Wang-RSLab/CAHN-Net/edit/main/CAHN-Net-main/figs/overview.png).https://github.com/Han-Wang-RSLab/CAHN-Net/edit/main/CAHN-Net-main/figs/overview.png
+
+![](https://github.com/Han-Wang-RSLab/CAHN-Net/edit/main/CAHN-Net-main/figs/overview.png)
 
  We leave our system information for reference.
 
@@ -65,7 +65,7 @@ python distill.py
 ```
 get_COCO_metrice.py
 ## Result Visualization 
-```
+
 ![]([/figs/experiment.png](https://github.com/Han-Wang-RSLab/CAHN-Net/blob/main/CAHN-Net-main/figs/02.png))
 ## Demo prediction
 
