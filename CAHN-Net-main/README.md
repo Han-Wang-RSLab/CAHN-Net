@@ -1,4 +1,4 @@
-# FDKD-Net: Diffusion-Based Feature Fusion with Dual-Path Knowledge Transfer for Aerial Remote Sensing Detection
+# CAHN-Net: Content-Adaptive Hierarchical Network for Cross-Modal Remote Sensing Object Detection
 
 By Han Wang, Yiqing Li, and Wen Zhou
 
