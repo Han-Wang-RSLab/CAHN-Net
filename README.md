@@ -55,13 +55,11 @@ python train.py
 - Valing with dataset
 python val.py
 ```
-- Self-distillation process
-```
-python distill.py
-```
-- get_COCO_metrice
+- pycocotools with COCO_metrice
 ```
 get_COCO_metrice.py
+```
+
 ## Experiments Result  
 
 ![](https://github.com/Han-Wang-RSLab/CAHN-Net/blob/main/CAHN-Net-main/figs/02.png)
