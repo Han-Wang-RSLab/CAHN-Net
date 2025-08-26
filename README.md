@@ -62,7 +62,7 @@ python distill.py
 - get_COCO_metrice
 ```
 get_COCO_metrice.py
-## Result Visualization 
+## Experiments Result  
 
 ![](https://github.com/Han-Wang-RSLab/CAHN-Net/blob/main/CAHN-Net-main/figs/02.png)
 ## Demo prediction
